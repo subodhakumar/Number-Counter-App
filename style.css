@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #c2c7ec;
+    text-align: center;
+    color: blue;
+}
+
+#incr{
+    font-size: 40px;
+    color: #f10aaf;
+}
+
+#num{
+    color: rgb(198, 74, 12);
+}
+
+#btn, #decr, #res{
+    background-color: #b93131;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+#btn:hover{
+    background-color: #21c6c9;
+    cursor: pointer;
+}
+
+#save{
+    background-color: #b93131;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+#save:hover, #decr:hover, #res:hover{
+    background-color: #21c6c9;
+    cursor: pointer;
+}
