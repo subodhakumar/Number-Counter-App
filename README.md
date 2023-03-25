@@ -9,4 +9,4 @@ In this Project I learned a lot of things about basics of Javascript and promisi
 
 ![Project](./Image/Screenshot%20(32).png)
 
-### Made by Subodha
+### Made by Subodh
