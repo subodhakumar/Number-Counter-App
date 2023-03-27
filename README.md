@@ -5,7 +5,7 @@
 In this Project I learned a lot of things about basics of Javascript and promising myself I will learn more complecated things in future for sure.
 
 
-### Screenshot of the Project
+### Screenshot of my Project
 
 ![Project](./Image/Screenshot%20(32).png)
 
