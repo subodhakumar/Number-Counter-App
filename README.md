@@ -2,7 +2,7 @@
 
 ### Live link [Click Here](https://numcounterr.netlify.app/)
 
-In this Project, I learned a lot of things about basics of Javascript and I promising myself I will learn more complecated things in future for sure.
+In this Project, I learned a lot of things about basics of Javascript and promising myself I will learn more complecated things in future for sure.
 
 
 ### Screenshot of My Project
