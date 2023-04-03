@@ -1,4 +1,4 @@
-## Basic Number Counter App
+## Basic Number Counter App ...
 
 ### Live link [Click Here](https://numcounterr.netlify.app/)
 
